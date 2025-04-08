@@ -1,5 +1,5 @@
 # Hora-de-Codar-8
-
+Exercicio
 # 🐾 Virtual Pet Simulator em Kotlin  
 
 Um simulador de animal de estimação virtual que ensina **Programação Orientada a Objetos (POO)** em Kotlin, onde você cuida de um pet com atributos dinâmicos e evita condições de game over.
